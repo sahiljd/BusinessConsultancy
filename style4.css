@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(132, 223, 132);
+    
+}
+
+.first{
+    background-color: white;
+    width: 360px;
+    height: 400px;
+    float: left;
+    border: 2px solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.second{
+    background-color: white;
+    width: 360px;
+    height: 400px;
+    float: left;
+    border: 2px solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.third{
+
+    background-color: white;
+    width: 360px;
+    height: 400px;
+    float: left;
+    border: 2px solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container{
+    width: auto;
+}

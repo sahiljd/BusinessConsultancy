@@ -1,0 +1,24 @@
+body {
+    background-color: goldenrod;
+}
+
+#b1{
+    display: block;
+    width: 200px;
+    padding: 10px;
+    background-color: grey;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#para1{
+    display: block;
+    width: 500px;
+    padding: 10px;
+    height: 500px;
+    background-color: yellowgreen;
+    margin-left: auto;
+    margin-right: auto;
+}
